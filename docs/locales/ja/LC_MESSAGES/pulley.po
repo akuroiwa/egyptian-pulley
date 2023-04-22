@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Akihiro Kuroiwa, ChatGPT of OpenAI
+# This file is distributed under the same license as the egyptian-pulley
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: egyptian-pulley \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-21 20:07+0900\n"
+"PO-Revision-Date: 2023-04-21 20:08+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../pulley.rst:3
+msgid "The Pulley System with Pillars and Sandbags"
+msgstr "支柱と土嚢を用いた滑車方式"
+
+#: ../../pulley.rst:5
+msgid "A Feasible Solution for the Construction of the Great Pyramids"
+msgstr "大ピラミッド建設当時の実現可能な解決策"
+
+#: ../../pulley.rst
+msgid "authors"
+msgstr "authors"
+
+#: ../../pulley.rst:8
+msgid "Akihiro Kuroiwa, ChatGPT of OpenAI"
+msgstr "Akihiro Kuroiwa, ChatGPT of OpenAI"
+
+#: ../../pulley.rst
+msgid "date"
+msgstr "date"
+
+#: ../../pulley.rst:10
+msgid "2023/04/21"
+msgstr "2023/04/21"
+
+#: ../../pulley.rst:13
+msgid "Pulley"
+msgstr "滑車"
+
+#: ../../pulley.rst:15
+msgid ""
+"The Great Pyramid of Giza is a testament to the ingenuity and wisdom of "
+"the ancient Egyptians. However, the method by which they constructed this"
+" enormous structure remains a mystery. While there are various theories, "
+"I propose the use of a pulley system employing pillars and sandbags."
+msgstr "ギザの大ピラミッドは、古代エジプト人の創意工夫と知恵の結晶である。しかし、この巨大な建造物をどのような方法で建設したかは謎に包まれている。諸説あるが、柱と土嚢を使った滑車方式を私は提案する。"
+
+#: ../../pulley.rst:17
+msgid ""
+"An excavation by the team from the University of Liverpool uncovered a "
+"ramp system that used stakes [#]_. In my opinion, I believe that the "
+"stakes and ropes were not used merely as simple pulleys but as a compound"
+" pulley system. As you know, a compound pulley consists of a fixed pulley"
+" and a moving pulley and is currently used in modern elevators and "
+"cranes."
+msgstr ""
+"リバプール大学の調査隊が行った発掘調査で杭を用いた傾斜システムが発掘された "
+"[#]_。私の考えでは、杭とロープを単なる動滑車ではなく、複合滑車のように用いたと思う。御存知のように、複合滑車は定滑車と動滑車の対になっており、現代ではエレベーターやクレーンに用いられている。"
+
+#: ../../pulley.rst:19
+msgid "Drive stakes on both sides of the ramp to act as pillars."
+msgstr "斜面の道の両側に杭を何本も打ち込み柱とする。"
+
+#: ../../pulley.rst:20
+msgid "Secure a rope to the pillars to serve as a starting point."
+msgstr "柱にロープを固定し、始まりとする。"
+
+#: ../../pulley.rst:21
+msgid ""
+"In front of the sled carrying the massive stones, attach a stone beam "
+"with multiple grooves that function as pulleys."
+msgstr "巨大な石を載せた橇の前方には、幾つもの溝を彫って滑車にした石の梁が取り付けてある。"
+
+#: ../../pulley.rst:22
+msgid ""
+"Pass a rope from the starting pillar on the right side through the sled's"
+" pulley and then pass the rope through the farthest pillar on the right "
+"side."
+msgstr "右側の始まりの柱から橇の滑車にロープを通し、右側の更に遠くの柱にロープを通す。"
+
+#: ../../pulley.rst:23
+msgid ""
+"Repeat step 4 above four times between the right pillar and the sled's "
+"pulley."
+msgstr "右側の柱と橇の滑車の間をロープに通すのを同様に4回繰り返す。"
+
+#: ../../pulley.rst:24
+msgid "Repeat step 5 on the left side using four pillars."
+msgstr "5番目の作業のように左側の4本の柱にも同様にロープを通す。"
+
+#: ../../pulley.rst:25
+msgid "Finally, tie the end of the rope to a cart."
+msgstr "最後にロープの端を台車に結ぶ。"
+
+#: ../../pulley.rst:26
+msgid ""
+"Load the cart with sandbags to act as weights and pull the rope by hand "
+"on flat ground."
+msgstr "台車に重りとなる土嚢を積む。平地では人力でロープを引く。"
+
+#: ../../pulley.rst:28
+msgid ""
+"Thus, eight pillars, excluding the starting point pillar, would function "
+"as fixed pulleys, with each rope passing through the moving pulleys "
+"attached to the sled. Even without a compound pulley, it is possible to "
+"create multiple moving pulleys using this method. If there were four "
+"support pillars on each side of the ramp, two moving pulleys could be "
+"created."
+msgstr "このようにして、ロープの始点となる柱以外の8本の柱は定滑車として機能し、それぞれ橇に取り付けられた動滑車に通される。複合滑車でなくとも、この方法で複数の動滑車を作ることは可能である。斜面の両側に4本の支柱があれば、2個の動滑車ができる。"
+
+#: ../../pulley.rst:30
+msgid ""
+"This pulley system may have also been used inside the pyramid's grand "
+"gallery. While stakes were used as pillars during transportation from the"
+" quarry, it is believed that beams were used in place of stakes inside "
+"the grand gallery."
+msgstr "この滑車システムは、ピラミッド内部に残された大回廊でも機能した可能性がある。採石場から運ぶ際は杭を柱として用いたが、大回廊では梁を代わりに用いたと考えられる。"
+
+#: ../../pulley.rst:32
+msgid ""
+"The advantage of this method is that beams used as fixed pulleys in a "
+"compound pulley system can distribute the weight borne by each beam, "
+"allowing the load to be carried more efficiently."
+msgstr "この工法の利点は、梁を複合滑車の定滑車として利用するので、梁1本当たりにかかる荷重を分散させることが出来る点だ。"
+
+#: ../../pulley.rst:34
+msgid ""
+"Using beams and sandbags in a pulley system and constructing a grand "
+"gallery are the most plausible explanations for how the ancient Egyptians"
+" built the Great Pyramid. With this method, they could have transported "
+"enormous stones without the use of cranes or modern machinery."
+msgstr "梁と土嚢を使った滑車方式と大回廊の建設は、古代エジプト人が大ピラミッドを建設できた理由をもっともらしく説明するものである。この方法であれば、クレーンや近代的な機械を使わずに、巨大な石を運搬することができただろう。"
+
+#: ../../pulley.rst:36
+msgid ""
+"Compared to the internal ramp theory proposed by Monsieur Jean-Pierre "
+"Houdin, the pulley system using beams and sandbags is a more "
+"straightforward and easily understandable solution. However, this "
+"proposal is only a partial modification and does not completely negate "
+"Monsieur Houdin's theory."
+msgstr "内部スロープ方式を提案したジャン＝ピエール・ウーダンの説に比べ、梁と土嚢を使った滑車方式は、よりシンプルでわかりやすい解決策と言える。しかし、この案はあくまで一部を修正するものであり、ウーダン氏の説をすべて否定するものではない。"
+
+#: ../../pulley.rst:38
+msgid ""
+"Sandbags were not only used as weights for the pulleys, but also as the "
+"outer frame of the inclined plane that was likely constructed during the "
+"pyramid's construction."
+msgstr "土嚢は滑車の重りとしてだけでなく、ピラミッド建設時に造られたであろう傾斜面の外枠としても用いられたと考えられる。"
+
+#: ../../pulley.rst:40
+msgid ""
+"This inclined plane would have been used to transport heavy building "
+"materials up to higher levels of the pyramid. The sandbags would have "
+"been stacked in a zigzag pattern to create the slope of the ramp, and "
+"then covered with a layer of mortar or plaster to create a smooth surface"
+" for the workers and materials to move on."
+msgstr "この傾斜面は、重い建築材料をピラミッドのより高い位置まで運ぶために使用されただろう。土嚢をジグザグに積み上げて斜面の勾配を作り、モルタルまたは石膏の層で覆い、作業員や資材が移動できる滑らかな表面を作る。"
+
+#: ../../pulley.rst:42
+msgid ""
+"Earthbags [#]_ have also been used in modern times as a sustainable and "
+"low-cost building material. They are essentially sacks filled with a "
+"mixture of soil, sand, and cement, which are then stacked and compacted "
+"to create walls. The resulting structure is incredibly durable, resistant"
+" to natural disasters like earthquakes and hurricanes, and energy-"
+"efficient due to its thick walls."
+msgstr ""
+"アースバッグ [#]_ "
+"は、持続可能で低コストの建築材料として現代でも使用されている。それらは基本的に、土、砂、セメントの混合物で満たされた袋であり、それらを積み重ねて圧縮して壁を作る。結果として得られる構造は、信じられないほど耐久性があり、地震やハリケーンなどの自然災害に対する耐性があり、壁が厚いためエネルギー効率に優れている。"
+
+#: ../../pulley.rst:44
+msgid ""
+"Overall, the use of sandbags in the construction of the pyramids is just "
+"one example of the ingenious building techniques that were developed by "
+"ancient civilizations. These techniques continue to inspire and inform "
+"modern sustainable building practices, and remind us of the incredible "
+"engineering feats that were accomplished by our ancestors."
+msgstr "結論として、ピラミッドの建設における土嚢の使用は、古代文明によって開発された独創的な建築技術の一例にすぎない。これらの技術は、現代の持続可能な建築にインスピレーションを与え、情報を提供し続けており、私たちの祖先によって達成された信じられないほどのエンジニアリングの偉業を思い出させてくれる。"
+
+#: ../../pulley.rst:49
+msgid "Calculation"
+msgstr "計算"
+
+#: ../../pulley.rst:51
+msgid ""
+"Calculate the tensile force on the plane and on the slope when the "
+"compound pulley is used [#]_."
+msgstr "複合滑車を使用した場合の平面と斜面の引張力を計算する [#]_。"
+
+#: ../../pulley.rst:94
+msgid "Tomb of King Khufu"
+msgstr "クフ王の墓"
+
+#: ../../pulley.rst:96
+msgid ""
+"As Mr. Sakuji Yoshimura has pointed out, I don't think pyramids are "
+"actually tombs. The Pyramids of Giza, like obelisks, should be regarded "
+"as mere parts of temples or funerary complexes, while the tombs of the "
+"pharaohs are believed to be located underground. If the custom was also "
+"followed in later generations, then we should assume that a mastaba for "
+"King Khufu was dug on the west side of the pyramid, since Hatshepsut's "
+"mortuary temple is located on the east side of the Valley of the Kings."
+msgstr "吉村作治氏の指摘する通り、ピラミッドは墓ではないと思う。ギザのピラミッド群はオベリスクと同じく、単なる神殿や葬祭殿の一部と看做すべきで、ファラオ達の墓は地下にあると思われる。後の世にも慣習は受け継がれたとするならば、王家の谷の東側にハトシェプスト葬祭殿があることから、ピラミッドの西側にクフ王のためのマスタバが掘られたと考えるべきだ。"
+
+#: ../../pulley.rst:100
+msgid ""
+"The fact that the Sphinx of Giza faces east also confirms this. The "
+"Karnak Temple and the Luxor Temple are connected by the Avenue of "
+"Sphinxes, and if this is also inherited from the custom, it can be "
+"imagined that there are not only one sphinx but also multiple sphinxes at"
+" Giza."
+msgstr "ギザのスフィンクスは東を向いており、このことも裏付けとなる。カルナック神殿とルクソール神殿はスフィンクスの参道で繋がっており、これも慣習を受け継いだものとすれば、ギザのスフィンクスも同様に1基のみならず複数あると想像できる。"
+
+#: ../../pulley.rst:105
+msgid "Reference"
+msgstr "参照"
+
+#: ../../pulley.rst:107
+msgid ""
+"`University of Liverpool. (2018). Ancient quarry ramp system may have "
+"helped workers build Egypt’s Great Pyramids. "
+"<https://news.liverpool.ac.uk/2018/11/02/ancient-quarry-ramp-system-may-"
+"have-helped-workers-build-egypts-great-pyramids/>`__"
+msgstr ""
+"`University of Liverpool. (2018). Ancient quarry ramp system may have "
+"helped workers build Egypt’s Great Pyramids. "
+"<https://news.liverpool.ac.uk/2018/11/02/ancient-quarry-ramp-system-may-"
+"have-helped-workers-build-egypts-great-pyramids/>`__"
+
+#: ../../pulley.rst:111
+msgid "`EarthbagBuilding.com <https://www.earthbagbuilding.com/>`__"
+msgstr "`EarthbagBuilding.com <https://www.earthbagbuilding.com/>`__"
+
+#: ../../pulley.rst:113
+msgid ""
+"`機種選定の為の引張力の計算方法 <https://www.maxpull.co.jp/wp_maxpull/wp-"
+"content/uploads/2018/03/inchoryokukeisan.pdf>`__"
+msgstr ""
+"`機種選定の為の引張力の計算方法 <https://www.maxpull.co.jp/wp_maxpull/wp-"
+"content/uploads/2018/03/inchoryokukeisan.pdf>`__"
+
